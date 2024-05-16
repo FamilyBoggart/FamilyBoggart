@@ -1,4 +1,4 @@
-### Hi there 👋
+### Estudiante de 42 Málaga con especializacion en Ciberseguridad
 
 <!--
 **FamilyBoggart/FamilyBoggart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![FamilyBoggart's GitHub stats](https://github-readme-stats.vercel.app/api?username=FamilyBoggart)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FamilyBoggart&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FamilyBoggart&theme=gotham&layout=compact&langs_count=8&card_width=300" />
+</a>
