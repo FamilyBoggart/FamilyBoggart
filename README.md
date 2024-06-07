@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Static Badge](https://img.shields.io/badge/Linkedin-%2350A7E0?style=flat&logo=linkedin)](https://www.linkedin.com/in/familyboggart/) [![Email Badge](https://img.shields.io/badge/Gmail-%2372ec?style=flat&logo=Gmail&logoColor=%de0a0a)](mailto:alexanderoga@gmail.com?subject=Test) ![Visits Badge](https://komarev.com/ghpvc/?username=FamilyBoggart&color=2350A7&abbreviated=true)
+***
+<p></p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FamilyBoggart&theme=gotham" />
 </a>
