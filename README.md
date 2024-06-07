@@ -1,5 +1,6 @@
-### Estudiante de 42 Málaga con especializacion en Ciberseguridad
-
+### Android App Developer and '42 Málaga' Student, Cibersecurity specialized
+- 👨‍💻 Currently studying: <a href="https://academy.hackthebox.com/exams/3/">HTB Penetration Testing Specialist Certification</a>
+***
 <!--
 **FamilyBoggart/FamilyBoggart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
