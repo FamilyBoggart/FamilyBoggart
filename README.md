@@ -1,5 +1,9 @@
-### Android App Developer and '42 Málaga' Student, Cibersecurity specialized
-- 👨‍💻 Currently studying: <a href="https://academy.hackthebox.com/exams/3/">HTB Penetration Testing Specialist Certification</a>
+### 42 Málaga Student, Cibersecurity specialized and Blockchain enthusiast
+ 👨‍💻 Currently studying:
+-   <p></p>
+    <b>#️⃣CIBERSECURITY: </b><a href="https://academy.hackthebox.com/exams/3/">HTB Penetration Testing Specialist Certification</a>
+-  <p></p>
+    <b>⛓️BLOCKCHAIN: </b><a href="https://cryptozombies.io/es/course/">Solidity Course for Blockchain Developers</a>
 ***
 <!--
 **FamilyBoggart/FamilyBoggart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
